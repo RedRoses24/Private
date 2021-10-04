@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px; 
+    font-family: 'Explora', cursive;
+    font-weight: bold; 
+}
+#Apps{
+  width: 100%;
+    height: 800px; 
+    background-color: #89cff0;
+}
+#games{
+  width: 100%;
+    height: 800px; 
+    background-color:  #f4c2c2;
+}
+#chatbot{
+  width: 100%;
+    height: 800px; 
+    background-color:  #FCBE85;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+.line{
+    height: 6px;
+    background-color: black; 
+    width: 70px; 
+    margin: 8px auto; 
+}
+
